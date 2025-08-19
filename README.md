@@ -1,16 +1,42 @@
-## Hi there 👋
+<!-- Banner -->
+<!-- Après avoir ajouté banner_morgan_github.png à la racine du repo, décommente l'image ci-dessous -->
+<img src="./banner_morgan_github.png" alt="Morgan Diverrez — Ingénieur logiciel IA" /> 
 
-<!--
-**morgandiverrez/morgandiverrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bonjour, je suis **Morgan Diverrez**
 
-Here are some ideas to get you started:
+**Ingénieur logiciel IA · Spécialiste des agents IA**  
+CTO & co-fondateur — [Nijal AI](https://nijal.ai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morgan%20Diverrez-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgan-diverrez/)
+[![Malt](https://img.shields.io/badge/Malt-morgandiverrez-FF4F5A?logo=malt&logoColor=white)](https://www.malt.fr/profile/morgandiverrez)
+
+---
+
+## 🧭 À propos
+- 🤖 Conception d’**agents IA** robustes (workflow, tool use, exécution)  
+- 📦 Intégration **RAG**, **LangGraph/LangChain**, MCP  
+- ☁️ Déploiement **Docker**, VM, Azure, Clever Cloud  
+- 🧑‍🏫 Enseignement : **Python, POO, Git, Docker, Bases de données**
+
+---
+
+## 🧰 Stack
+**Langages** : Python · TypeScript · JavaScript · PHP  
+**Frameworks / Outils** : FastAPI · React/Next.js · LangGraph · LangChain · Docker
+
+---
+
+## 📈 Mes statistiques
+> Remplace `morgandiverrez` par ton pseudo si besoin.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morgandiverrez&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgandiverrez&layout=compact)
+
+---
+
+## 📬 Contact
+- LinkedIn : [morgan-diverrez](https://www.linkedin.com/in/morgan-diverrez/)
+- Malt : [morgandiverrez](https://www.malt.fr/profile/morgandiverrez)
+- Site : [nijal.ai](https://nijal.ai)
+
+> _Objectif : créer et déployer des IA utiles, sécurisées et maintenables._
