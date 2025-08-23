@@ -21,13 +21,12 @@ CTO & co-fondateur — [Nijal AI](https://nijal.ai)
 ---
 
 ## 🧰 Stack
-**Langages** : Python · TypeScript · JavaScript · PHP  
-**Frameworks / Outils** : FastAPI · React/Next.js · LangGraph · LangChain · Docker
+**Langages** : Python · TypeScript · JavaScript · PHP · Kotlin
+**Frameworks / Outils** : FastAPI · React/Next.js · LangGraph · LangChain · Docker · Simfony · PostgreSQL/Vector · Redis
 
 ---
 
 ## 📈 Mes statistiques
-> Remplace `morgandiverrez` par ton pseudo si besoin.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morgandiverrez&show_icons=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgandiverrez&layout=compact)
