@@ -26,12 +26,7 @@ CTO & co-fondateur — [Nijal AI](https://nijal.ai)
 
 ---
 
-## 📈 Mes statistiques
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morgandiverrez&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgandiverrez&layout=compact)
-
----
 
 ## 📬 Contact
 - LinkedIn : [morgan-diverrez](https://www.linkedin.com/in/morgan-diverrez/)
